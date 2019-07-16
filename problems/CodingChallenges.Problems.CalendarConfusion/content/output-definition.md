@@ -1,0 +1,1 @@
+Your output should contain the same number of lines as the given input file. Each line should contain the given input date in the desired output format.

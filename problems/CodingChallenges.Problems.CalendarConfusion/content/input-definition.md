@@ -1,0 +1,1 @@
+An input file for this problem will contain less than 1000 lines of space separated triples. Each line will contain a date, its current format, and the desired output format.
